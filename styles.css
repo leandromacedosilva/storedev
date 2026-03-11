@@ -278,6 +278,15 @@ header nav ul li a span {
 .dot {
     width: 40px;
     height: 4px;
-    color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.2);
     border-radius: 2px;
+}
+
+.dot.active {
+    background-color: #00f7ff;
+    box-shadow: 0 0 10px rgba(0, 247, 255, 0.5);
+}
+
+.tech-circle {
+    position: absolute;
 }
