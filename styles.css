@@ -96,6 +96,18 @@ header nav ul li a span {
     }
 }
 
+@media screen and (max-width: 990px) {
+    .item {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .content {
+        display: flex;
+        justify-content: center;
+    }
+}
+
 .container {
     height: 100vh;
     position: relative;
