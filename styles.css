@@ -101,8 +101,20 @@ header nav ul li a span {
         display: flex;
         flex-direction: column;
     }
-    
+
     .content {
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+
+        margin-bottom: 200px;
+    }
+
+    .content .product-name {
+        font-size: 40px;
+    }
+
+    .content .btn {
         display: flex;
         justify-content: center;
     }
