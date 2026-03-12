@@ -36,14 +36,11 @@ function update(direction) {
     numberIndicator.textContent = String(active + 1).padStart(2, '0');
 }
 
-
 clearInterval(timer);
 
 timer = setInterval(() => {
         update(1)
     }, 5000);
-
-
 
 prevButton.addEventListener('click', () => {
     update(-1);
@@ -51,4 +48,5 @@ prevButton.addEventListener('click', () => {
 
 nextButton.addEventListener('click', () => {
     update(1);
+    //console.log('next');
 });
