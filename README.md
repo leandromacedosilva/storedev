@@ -43,13 +43,3 @@ Evoluir para frameworks JavaScript modernos
 🎯 Objetivo profissional
 
 Atuar como Front-End Developer, contribuindo no desenvolvimento de aplicações web modernas, performáticas e com foco na melhor experiência para o usuário.
-
-💡 Se quiser, posso também te ajudar a deixar seu perfil GitHub muito mais profissional, por exemplo:
-
-Criar um README de perfil com layout avançado (badges, stats, gráficos e animações)
-
-Montar seções automáticas com estatísticas do GitHub
-
-Criar banners e organização estilo portfólio profissional
-
-Estruturar um perfil no nível de desenvolvedores que conseguem entrevistas rapidamente.
