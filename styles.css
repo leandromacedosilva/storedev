@@ -117,6 +117,7 @@ header nav ul li a span {
 
     .content .description {
         padding-left: 100px;
+        font-size: 12px;
     }
 
     .content .btn {
@@ -128,6 +129,8 @@ header nav ul li a span {
     .indicators .numbers {
         font-size: 25px;
     }
+
+    
 }
 
 .container {
