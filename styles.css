@@ -348,7 +348,7 @@ header nav ul li a span {
 .indicators {
     position: absolute;
     bottom: 40px;
-    left: 50%;
+    left: 43%;
     transform: translateY(-50%);
 
     display: flex;
